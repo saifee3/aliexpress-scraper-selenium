@@ -5,6 +5,7 @@
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Selenium](https://img.shields.io/badge/selenium-4.x-yellow.svg)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.x-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A powerful web scraping tool built with Python to extract product information from AliExpress.com. This scraper collects product names, prices, and other details for specified search queries.
@@ -139,5 +140,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 - [Selenium](https://www.selenium.dev/) for web automation
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for HTML Parsing
 - [AliExpress](https://www.aliexpress.com/) for providing the platform to scrape data from
 
