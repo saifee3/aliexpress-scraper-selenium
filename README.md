@@ -1,7 +1,6 @@
 # AliExpress Product Scraper 🛠️🔍
 
 ![cover_hu17817391060126450393](https://github.com/user-attachments/assets/7b53cd66-dd36-47d4-9cf2-5de55e83a252)
-Credits: Banner Image by Real Python on scrapingbee.com https://www.scrapingbee.com/blog/selenium-python/
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Selenium](https://img.shields.io/badge/selenium-4.x-yellow.svg)
@@ -137,9 +136,10 @@ Contributions are welcome! Please follow these guidelines:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
+## 🙏 Credits
 
 - [Selenium](https://www.selenium.dev/) for web automation
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/) for HTML Parsing
 - [AliExpress](https://www.aliexpress.com/) for providing the platform to scrape data from
+- Banner Image by Real Python on scrapingbee.com https://www.scrapingbee.com/blog/selenium-python/
 
